@@ -44,7 +44,7 @@ A React application that demonstrates CRUD (Create, Read, Update, Delete) functi
 1. Start the development server:
 
    ```bash
-   npm start
+   npm run dev
    ```
 
 2. The application will typically run on `http://localhost:3000` (or the port specified in your `package.json`). Open this URL in your web browser.
